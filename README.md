@@ -326,7 +326,7 @@ UB 模块是基于灵衢基础规范实现的仿真组件：
 欢迎加入 OpenUSim 仿真答疑交流微信群：
 
 <p>
-<img src="https://raw.gitcode.com/user-images/assets/7654616/da776214-666b-4d7c-896a-273f75770264/image.png" width="300" height="300" alt="OpenUSim 答疑交流微信群二维码">
+<img src="https://raw.gitcode.com/user-images/assets/7654616/5e10e044-01db-4f9c-8614-dbb9e2bd4804/image.png" width="300" height="300" alt="OpenUSim 答疑交流微信群二维码">
 </p>
 
 ## 许可证
